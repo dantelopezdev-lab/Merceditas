@@ -1,1 +1,0 @@
-import productos from "../productosData";
